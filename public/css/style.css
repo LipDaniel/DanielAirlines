@@ -52,8 +52,8 @@ h6 {
 # Back to top button
 --------------------------------------------------------------*/
 .tripname{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
 }
 .image1{
   background: url("../img/Hanoi.jpg") center top no-repeat;

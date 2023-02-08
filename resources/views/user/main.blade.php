@@ -28,8 +28,7 @@
                                             <i class="bi bi-airplane-engines"></i>
                                         </span>
                                     </div>
-                                    <select id="from" class="selectpicker form-control" data-live-search="true" placeholder="Điểm đến" data-search="true">
-                                        <option selected>Thành phồ hoặc sân bay</option>
+                                    <select id="from" class="selectpicker form-control" title="Thành phố hoặc sân bay" data-live-search="true" placeholder="Điểm đến" data-search="true">
                                         <option value="Hồ Chí Minh (SGN)">Hồ Chí Minh (SGN)</option>
                                         <option value="Cam Ranh (CXR)">Cam Ranh (CXR)</option>
                                     </select>
@@ -50,8 +49,7 @@
                                             <i class="bi bi-airplane-engines"></i>
                                         </span>
                                     </div>
-                                    <select class="selectpicker form-control" id="to" data-live-search="true" placeholder="Điểm đến">
-                                        <option selected>Thành phồ hoặc sân bay</option>
+                                    <select class="selectpicker form-control" title="Thành phố hoặc sân bay" id="to" data-live-search="true" placeholder="Điểm đến">
                                         <option value="Hồ Chí Minh (SGN)">Hồ Chí Minh (SGN)</option>
                                         <option value="Cam Ranh (CXR)">Cam Ranh (CXR)</option>
                                     </select>
@@ -144,7 +142,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="image3 text-center">
-                        <span class="text-light tripname">Hội an</span>
+                        <span class="text-light tripname">Hội An</span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
