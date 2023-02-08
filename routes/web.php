@@ -14,5 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('user/landingpage');
+    return view('user.components.landingpage');
+});
+Route::get('/timve', function () {
+    return view('user.components.products');
 });
